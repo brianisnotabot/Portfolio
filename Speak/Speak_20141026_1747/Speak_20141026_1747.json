@@ -1,0 +1,12 @@
+{
+  "name": "Speak_20141026_1747",
+  "location": "portfolio/Speak",
+  "res": [
+    "res/samples/speech/rules_of_robotics",
+    "/home/brian/BINOB/patterns/clusters/minor\n"
+  ],
+  "categories": [
+    "Speech",
+    "Vocoder"
+  ]
+}
