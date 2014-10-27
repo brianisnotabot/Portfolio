@@ -1,0 +1,12 @@
+{
+  "name": "Speak_20141027_0030",
+  "location": "portfolio/Speak",
+  "res": [
+    "res/samples/speech/bodhisattva_vow",
+    "/home/brian/BINOB/patterns/clusters/air"
+  ],
+  "categories": [
+    "Speech",
+    "Vocoder"
+  ]
+}
