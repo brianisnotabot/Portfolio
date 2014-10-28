@@ -1,0 +1,18 @@
+{
+  "name": "Mince_20141027_2006",
+  "location": "portfolio/Mince",
+  "res": [
+    "res/samples/kitchensink/camera1",
+    "res/samples/kitchensink/cymbolscratch1",
+    "res/samples/kitchensink/hand_duster_2",
+    "res/samples/kitchensink/GL30"
+  ],
+  "categories": [
+    "stutter",
+    "granular",
+    "rhythmic",
+    "sampled"
+  ],
+  "seed": 26765,
+  "bpm": 96
+}

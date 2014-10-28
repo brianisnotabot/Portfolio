@@ -1,0 +1,12 @@
+{
+  "name": "Speak_20141028_0030",
+  "location": "portfolio/Speak",
+  "res": [
+    "res/samples/speech/the_oracle",
+    "/home/brian/BINOB/patterns/clusters/cluster"
+  ],
+  "categories": [
+    "Speech",
+    "Vocoder"
+  ]
+}

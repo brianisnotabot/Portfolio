@@ -1,0 +1,11 @@
+{
+  "name": "Speak_20141026_1559",
+  "location": "portfolio/Speak",
+  "res": [
+    "res/samples/speech/the_architect"
+  ],
+  "categories": [
+    "Speech",
+    "Vocoder"
+  ]
+}
